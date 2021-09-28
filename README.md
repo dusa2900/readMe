@@ -2,15 +2,16 @@
 # Follow below Website links for ref:
 
 
- - [Readme website](https://readme.so/) (https://readme.so/)
- - [Placeholder website](https://placeholder.com/) (https://placeholder.com/)
+ > [Readme website](https://readme.so/) (https://readme.so/)
+
+ > [Placeholder website](https://placeholder.com/) (https://placeholder.com/)
 
 
 
 
 # CrudApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli "Angular CLI") version 12.1.0.
 
 ## Development server
 
@@ -145,16 +146,15 @@ Many people make their daily purchases online
  ````
 
 
-
 # h1
 ## h2
 ### h3
-
 	List box
 **text**  (text bold style)
 
 [some text](any url)--- shows url link
-
+[some text](any url “link short name”)----shows url short name
+--- (hr line)
 
 ```
 Some data
@@ -166,23 +166,18 @@ Shows one box data
 [![image text](image link)](image navigated link)
 ---image preview click url link
 
--/.
+-
 ---circle list type 
-
 `text`  ----color text
 
-
--	[x] text
+-   [x] text
 -------right symbol box list type
 
 |title | description |
 |------|-------------|
 |data  |information  |
 
-
 table design format
-
-
 
 
 * `yarn generate-zips` - generate the zip files from the examples. Zip available via the `live-example` tags in the docs.
@@ -192,9 +187,12 @@ table design format
   - `--local`: run e2e tests with the local version of Angular contained in the "dist" folder.
                _Requires `--setup` in order to take effect._
   - `--filter=foo`: limit e2e tests to those containing the word "foo".
-
-  
 ---nested child list type 
+
+_some text_ -----slide text format
+
+~~1000~~ --------line through 1000
+
 
 
 
