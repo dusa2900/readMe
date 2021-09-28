@@ -1,3 +1,13 @@
+
+# Follow below Website links for ref:
+
+
+ - [Readme website](https://readme.so/) (https://readme.so/)
+ - [Placeholder website](https://placeholder.com/) (https://placeholder.com/)
+
+
+
+
 # CrudApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
@@ -185,5 +195,7 @@ table design format
 
   
 ---nested child list type 
+
+
 
 ```
